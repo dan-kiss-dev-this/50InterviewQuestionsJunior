@@ -11,8 +11,14 @@ namespace BoxingAndUnboxing
             object obj = word;
 
             //boxing and unboxing
+            // int number = 5;
+            // object boxedNumber = number;
+            // int unboxedNumber = (int)boxedNumber;
+
             int number = 5;
             object boxedNumber = number;
+            Console.WriteLine(20);
+            Console.WriteLine(boxedNumber);
             int unboxedNumber = (int)boxedNumber;
 
             //this will throw because unboxing requires exact type match
