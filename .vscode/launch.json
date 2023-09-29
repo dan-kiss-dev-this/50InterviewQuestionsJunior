@@ -9,9 +9,9 @@
       "type": "coreclr",
       "request": "launch",
       "preLaunchTask": "build",
-      "program": "${workspaceFolder}/TypesOfErrors/bin/Debug/net6.0/TypesOfErrors.dll",
+      "program": "${workspaceFolder}/BoxingAndUnboxing/bin/Debug/net6.0/BoxingAndUnboxing.dll",
       "args": [],
-      "cwd": "${workspaceFolder}/TypesOfErrors",
+      "cwd": "${workspaceFolder}/BoxingAndUnboxing",
       "console": "internalConsole",
       "stopAtEntry": false
     },
